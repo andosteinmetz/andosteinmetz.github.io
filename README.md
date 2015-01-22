@@ -30,6 +30,13 @@ I am currently considering the following methods of organization:
 Currently I'm considering the following technologies:
 - github pages for hosting
 - Jekyll for blogging
-- Angular for my Spirotator
+- Angular for my Spirotator/Gallleryy
 
-In the meantime, check out my [grid generator](/sass_grundrisse).
+My aims for the site are for it to be:
+- easy and fun to maintain and update. i'd like not to have to make many decisions when i want to add something.
+- fun to visit
+- easy to navigate
+- flexible, so i can play around with it as suits my fancy
+- relatively simple
+
+In the meantime, check out my [grid generator](http://andosteinmetz.github.io/sass_grundrisse).
