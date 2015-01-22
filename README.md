@@ -17,6 +17,13 @@ The website will attempt to meaningfully organize some combination of the follow
 - Music
 - A page devoted to my web design business
 
+My aims for the site are for it to be:
+- easy and fun to maintain and update. i'd like not to have to make many decisions when i want to add something.
+- fun to visit
+- easy to navigate
+- flexible, so i can play around with it as suits my fancy
+- relatively simple
+
 I am currently considering the following methods of organization:
 
 1. Blogform - everything in a chronological list
@@ -31,12 +38,5 @@ Currently I'm considering the following technologies:
 - github pages for hosting
 - Jekyll for blogging
 - Angular for my Spirotator/Gallleryy
-
-My aims for the site are for it to be:
-- easy and fun to maintain and update. i'd like not to have to make many decisions when i want to add something.
-- fun to visit
-- easy to navigate
-- flexible, so i can play around with it as suits my fancy
-- relatively simple
 
 In the meantime, check out my [grid generator](http://andosteinmetz.github.io/sass_grundrisse).
