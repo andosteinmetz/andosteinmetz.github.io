@@ -16,6 +16,7 @@ The website will attempt to meaningfully organize some combination of the follow
 - A page devoted to my web design business
 
 I am currently considering the following methods of organization:
+
 1. Blogform - everything in a chronological list
 2. Project-based - a list of projects, each with its own page, plus a blog
 3. Some combination of 1 and 2.
