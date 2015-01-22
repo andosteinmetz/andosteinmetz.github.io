@@ -1,6 +1,6 @@
 # My Website
 
-*Hello World*
+**Hello World**
 
 This is the future home of my website. The current (well, not very current) version is [here](http://andrewsteinmetz.net).
 
@@ -9,6 +9,8 @@ The website will attempt to meaningfully organize some combination of the follow
 - A blog
 - Documentation of artworks
   * images of sculptures
+  * drawings
+  * web-based works
   * images of ceramics
   * photographs of the world
 - An index of my rock collection
