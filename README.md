@@ -19,7 +19,7 @@ The website will attempt to meaningfully organize some combination of the follow
 
 My aims for the site are for it to be:
 - easy and fun to maintain and update. i'd like not to have to make many decisions when i want to add something.
-- fun to visit
+- fun to visit, playful aesthetics
 - easy to navigate
 - flexible, so i can play around with it as suits my fancy
 - relatively simple
