@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/scroll-fx/static/css/main.1b19a115.css",
-    "main.js": "/scroll-fx/static/js/main.736ee7f6.js",
+    "main.css": "/scroll-fx/static/css/main.8dc0b06a.css",
+    "main.js": "/scroll-fx/static/js/main.b7f5e69e.js",
     "static/js/787.1271e87f.chunk.js": "/scroll-fx/static/js/787.1271e87f.chunk.js",
+    "static/media/covid-map-placeholder.png": "/scroll-fx/static/media/covid-map-placeholder.a843b2c20d324827361d.png",
     "static/media/TypeShop Collection - GascogneTS-DemiBold.ttf": "/scroll-fx/static/media/TypeShop Collection - GascogneTS-DemiBold.2b15b370c1375ebe9303.ttf",
     "static/media/AtlasGrotesk-Bold-Web.woff": "/scroll-fx/static/media/AtlasGrotesk-Bold-Web.613c953b7a6f73df5a31.woff",
     "static/media/AtlasGrotesk-Medium-Web.woff": "/scroll-fx/static/media/AtlasGrotesk-Medium-Web.c1daeeecb76fa041d5da.woff",
     "static/media/AtlasGrotesk-Regular-Web.woff": "/scroll-fx/static/media/AtlasGrotesk-Regular-Web.570fb67f01633b77f8a4.woff",
     "static/media/covid-placeholder.png": "/scroll-fx/static/media/covid-placeholder.aebd3baf98b565c7da75.png",
+    "static/media/chart-placeholder.png": "/scroll-fx/static/media/chart-placeholder.69328bdbd903f6bd3992.png",
     "index.html": "/scroll-fx/index.html",
-    "main.1b19a115.css.map": "/scroll-fx/static/css/main.1b19a115.css.map",
-    "main.736ee7f6.js.map": "/scroll-fx/static/js/main.736ee7f6.js.map",
+    "static/media/arrow.svg": "/scroll-fx/static/media/arrow.3bda959efd72b937e8e38b81ebb65ce4.svg",
+    "main.8dc0b06a.css.map": "/scroll-fx/static/css/main.8dc0b06a.css.map",
+    "main.b7f5e69e.js.map": "/scroll-fx/static/js/main.b7f5e69e.js.map",
     "787.1271e87f.chunk.js.map": "/scroll-fx/static/js/787.1271e87f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b19a115.css",
-    "static/js/main.736ee7f6.js"
+    "static/css/main.8dc0b06a.css",
+    "static/js/main.b7f5e69e.js"
   ]
 }
