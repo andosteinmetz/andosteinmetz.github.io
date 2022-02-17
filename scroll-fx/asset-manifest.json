@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/scroll-fx/static/css/main.007b9de4.css",
-    "main.js": "/scroll-fx/static/js/main.6ec32218.js",
+    "main.css": "/scroll-fx/static/css/main.460d170e.css",
+    "main.js": "/scroll-fx/static/js/main.11fee9fd.js",
     "static/js/787.1271e87f.chunk.js": "/scroll-fx/static/js/787.1271e87f.chunk.js",
     "static/media/covid-map-placeholder.png": "/scroll-fx/static/media/covid-map-placeholder.a843b2c20d324827361d.png",
     "static/media/TypeShop Collection - GascogneTS-DemiBold.ttf": "/scroll-fx/static/media/TypeShop Collection - GascogneTS-DemiBold.2b15b370c1375ebe9303.ttf",
@@ -12,12 +12,12 @@
     "static/media/chart-placeholder.png": "/scroll-fx/static/media/chart-placeholder.69328bdbd903f6bd3992.png",
     "index.html": "/scroll-fx/index.html",
     "static/media/arrow.svg": "/scroll-fx/static/media/arrow.3bda959efd72b937e8e38b81ebb65ce4.svg",
-    "main.007b9de4.css.map": "/scroll-fx/static/css/main.007b9de4.css.map",
-    "main.6ec32218.js.map": "/scroll-fx/static/js/main.6ec32218.js.map",
+    "main.460d170e.css.map": "/scroll-fx/static/css/main.460d170e.css.map",
+    "main.11fee9fd.js.map": "/scroll-fx/static/js/main.11fee9fd.js.map",
     "787.1271e87f.chunk.js.map": "/scroll-fx/static/js/787.1271e87f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.007b9de4.css",
-    "static/js/main.6ec32218.js"
+    "static/css/main.460d170e.css",
+    "static/js/main.11fee9fd.js"
   ]
 }
