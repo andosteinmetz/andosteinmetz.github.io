@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "https://andosteinmetz.github.io/scroll-fx/static/css/main.b900238e.css",
-    "main.js": "https://andosteinmetz.github.io/scroll-fx/static/js/main.db82d869.js",
+    "main.js": "https://andosteinmetz.github.io/scroll-fx/static/js/main.79580d33.js",
     "static/js/787.1271e87f.chunk.js": "https://andosteinmetz.github.io/scroll-fx/static/js/787.1271e87f.chunk.js",
     "static/media/covid-map-placeholder.png": "https://andosteinmetz.github.io/scroll-fx/static/media/covid-map-placeholder.a843b2c20d324827361d.png",
     "static/media/TypeShop Collection - GascogneTS-DemiBold.ttf": "https://andosteinmetz.github.io/scroll-fx/static/media/TypeShop Collection - GascogneTS-DemiBold.2b15b370c1375ebe9303.ttf",
@@ -13,11 +13,11 @@
     "index.html": "https://andosteinmetz.github.io/scroll-fx/index.html",
     "static/media/arrow.svg": "https://andosteinmetz.github.io/scroll-fx/static/media/arrow.3bda959efd72b937e8e38b81ebb65ce4.svg",
     "main.b900238e.css.map": "https://andosteinmetz.github.io/scroll-fx/static/css/main.b900238e.css.map",
-    "main.db82d869.js.map": "https://andosteinmetz.github.io/scroll-fx/static/js/main.db82d869.js.map",
+    "main.79580d33.js.map": "https://andosteinmetz.github.io/scroll-fx/static/js/main.79580d33.js.map",
     "787.1271e87f.chunk.js.map": "https://andosteinmetz.github.io/scroll-fx/static/js/787.1271e87f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b900238e.css",
-    "static/js/main.db82d869.js"
+    "static/js/main.79580d33.js"
   ]
 }
